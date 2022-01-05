@@ -11,3 +11,13 @@ This shows the location of each shot taken by each player, grouped by several lo
 
 ![alt text](https://github.com/shamit24/NBA_Tableau_Analysis/blob/main/Shot%20Analysis%20by%20Player.png "Shot Chart per Player")
 
+
+
+### Some in-depth analysis on certain stats during the season
+
+
+
+
+![alt text](https://github.com/shamit24/NBA_Tableau_Analysis/blob/main/in-depth%20stats%20for%20the%20season.png "Stat Analysis")
+
+
